@@ -6,7 +6,7 @@ Python-based SIEM log analyzer for monitoring login events, failed authenticatio
 
 ## Dashboard Preview
 
-![Dashboard](dashboard-preview.png)
+![Dashboard](Dashboard.png)
 
 ## Overview
 
