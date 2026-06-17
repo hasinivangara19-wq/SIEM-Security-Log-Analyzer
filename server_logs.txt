@@ -1,0 +1,4 @@
+2026-06-15 10:15:32 - IP: [192.168.1.10] - Status: [SUCCESS] - User: [admin]
+2026-06-15 10:16:10 - IP: [192.168.1.15] - Status: [FAILED] - User: [john]
+2026-06-15 10:17:45 - IP: [10.0.0.5] - Status: [SUCCESS] - User: [maria]
+2026-06-15 10:18:20 - IP: [172.16.0.8] - Status: [FAILED] - User: [root]
