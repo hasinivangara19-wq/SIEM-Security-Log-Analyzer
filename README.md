@@ -4,9 +4,13 @@ Python-based SIEM log analyzer for monitoring login events, failed authenticatio
 
 Python-based SIEM log analyzer for monitoring login events, failed authentications, and suspicious activity.
 
-## Dashboard Preview
+## Dashboard Overview
 
-![Dashboard](Dashboard.png)
+![Dashboard Overview](dashboard-overview.png)
+
+## Threat Detection & Analytics
+
+![Threat Detection](dashboard-threats.png)
 
 ## Overview
 
@@ -36,16 +40,17 @@ The application reads server log files, extracts security-relevant information, 
 Through this project, I learned:
 
 - Log analysis fundamentals
-- SIEM concepts
-- Python file handling
-- Data analysis with Pandas
-- Dashboard development using Streamlit
-- Git and GitHub workflow
+-SIEM concepts
+-Python file handling
+-Data analysis with Pandas
+-Dashboard development using Streamlit
+-Git and GitHub workflow
+-Basic threat detection techniques
+-Brute-force attack identification
 
 ## Future Improvements
 
-- Brute-force attack detection
-- Real-time log monitoring
-- Email alerts
-- Geo-IP mapping
-- Machine learning anomaly detection
+-Real-time log monitoring
+-Email alerts
+-Geo-IP mapping
+-Machine learning anomaly detection
