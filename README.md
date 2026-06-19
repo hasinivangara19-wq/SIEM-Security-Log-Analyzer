@@ -12,6 +12,10 @@ Python-based SIEM log analyzer for monitoring login events, failed authenticatio
 
 ![Threat Detection](Dashboard-threats.png)
 
+## Live Demo
+
+https://siem-security-log-analyzer-5hr7v4bwwhp3brl9uapvjq.streamlit.app/
+
 ## Overview
 
 This project is a beginner-level Security Information and Event Management (SIEM) dashboard built using Python, Streamlit, Pandas, and Regular Expressions (Regex).
